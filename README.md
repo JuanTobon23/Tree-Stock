@@ -44,7 +44,7 @@ java -cp src Main
 ## 🎥 Capturas de Pantalla
 
 ### 1. Registro de Productos
-()
+(![Registro de Productos](imagenes/RegistrarProducto.png))
 
 ### 2. Mostrar Inventario
 ()
