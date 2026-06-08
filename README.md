@@ -50,7 +50,7 @@ java -cp src Main
 (![Mostrar Inventario](imagenes/MostrarInventario.png))
 
 ### 3. Buscar Producto
-()
+(![Buscar Producto](imagenes/BuscarProducto.png))
 
 
 
