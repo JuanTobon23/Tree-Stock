@@ -47,7 +47,7 @@ java -cp src Main
 (![Registro de Productos](imagenes/RegistrarProducto.png))
 
 ### 2. Mostrar Inventario
-()
+(![Mostrar Inventario](imagenes/MostrarInventario.png))
 
 ### 3. Buscar Producto
 ()
